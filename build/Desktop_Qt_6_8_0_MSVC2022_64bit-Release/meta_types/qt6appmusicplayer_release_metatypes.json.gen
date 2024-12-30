@@ -1,0 +1,268 @@
+[
+    {
+        "classes": [
+            {
+                "className": "AsyncImageResponse",
+                "lineNumber": 8,
+                "object": true,
+                "qualifiedClassName": "AsyncImageResponse",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "type": "QColor"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "mainColorChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QQuickImageResponse"
+                    },
+                    {
+                        "access": "public",
+                        "name": "QRunnable"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "asyncimageresponse.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "BarsVisualizer",
+                "lineNumber": 7,
+                "methods": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "pause",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "BarsVisualizer",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "Visualizer"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "barsvisualizer.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SongAttachedPicProvider",
+                "lineNumber": 8,
+                "object": true,
+                "qualifiedClassName": "SongAttachedPicProvider",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QQuickAsyncImageProvider"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "songattachedpicprovider.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SongHelper",
+                "lineNumber": 14,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "urls",
+                                "type": "QList<QUrl>"
+                            }
+                        ],
+                        "index": 6,
+                        "name": "generateSongItems",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "keywords",
+                                "type": "QString"
+                            }
+                        ],
+                        "index": 7,
+                        "name": "searchSongs",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 8,
+                        "name": "quitSearchResults",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 9,
+                        "name": "downloadSongItem",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 10,
+                        "name": "getSongName",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 11,
+                        "name": "getSongUrl",
+                        "returnType": "QUrl"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 12,
+                        "name": "getImageUrl",
+                        "returnType": "QUrl"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 13,
+                        "name": "removeSongItem",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 14,
+                        "name": "getAudioBufferOutput",
+                        "returnType": "QAudioBufferOutput*"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "SongHelper",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "type": "QList<QString>"
+                            }
+                        ],
+                        "index": 0,
+                        "name": "newSongNamesReady",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 1,
+                        "name": "lastSongKeysPressed",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 2,
+                        "name": "nextSongKeysPressed",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "index": 3,
+                        "name": "playingStateSwitchKeysPressed",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "type": "QColor"
+                            }
+                        ],
+                        "index": 4,
+                        "name": "mainColorChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "type": "QList<QString>"
+                            }
+                        ],
+                        "index": 5,
+                        "name": "searchResultsReady",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "songhelper.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "Visualizer",
+                "lineNumber": 7,
+                "object": true,
+                "qualifiedClassName": "Visualizer",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QQuickPaintedItem"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "visualizer.h",
+        "outputRevision": 68
+    }
+]

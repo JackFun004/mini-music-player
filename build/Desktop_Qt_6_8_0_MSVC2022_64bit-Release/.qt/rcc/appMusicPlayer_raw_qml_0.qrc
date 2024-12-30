@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/qt/qml/MusicPlayer/">
+    <file alias="Main.qml">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/Main.qml</file>
+    <file alias="MyWindow.qml">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/MyWindow.qml</file>
+    <file alias="MyImage.qml">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/MyImage.qml</file>
+    <file alias="assets/icon/clear.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/clear.svg</file>
+    <file alias="assets/icon/download.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/download.svg</file>
+    <file alias="assets/icon/drag.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/drag.svg</file>
+    <file alias="assets/icon/folder_open.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/folder_open.svg</file>
+    <file alias="assets/icon/left.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/left.svg</file>
+    <file alias="assets/icon/list.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/list.svg</file>
+    <file alias="assets/icon/list_cycle.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/list_cycle.svg</file>
+    <file alias="assets/icon/net_ease_cloud.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/net_ease_cloud.svg</file>
+    <file alias="assets/icon/pause.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/pause.svg</file>
+    <file alias="assets/icon/play.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/play.svg</file>
+    <file alias="assets/icon/poweroff.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/poweroff.svg</file>
+    <file alias="assets/icon/pull_down.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/pull_down.svg</file>
+    <file alias="assets/icon/random.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/random.svg</file>
+    <file alias="assets/icon/right.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/right.svg</file>
+    <file alias="assets/icon/search.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/search.svg</file>
+    <file alias="assets/icon/single_cycle.svg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/icon/single_cycle.svg</file>
+  </qresource>
+</RCC>
+

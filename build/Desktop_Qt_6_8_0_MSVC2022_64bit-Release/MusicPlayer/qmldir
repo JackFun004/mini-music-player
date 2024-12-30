@@ -1,0 +1,7 @@
+module MusicPlayer
+typeinfo appMusicPlayer.qmltypes
+prefer :/qt/qml/MusicPlayer/
+Main 1.0 Main.qml
+MyWindow 1.0 MyWindow.qml
+MyImage 1.0 MyImage.qml
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="assets/disk.jpeg">C:/Users/PC/Desktop/learning/Qt_learning/MyProjects/MusicPlayer/assets/disk.jpeg</file>
+  </qresource>
+</RCC>
+
